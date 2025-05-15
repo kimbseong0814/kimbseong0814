@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%20to%20Byungseong's%20GitHub!&fontAlign=50&fontAlignY=40&fontSize=40" />
 
 ## 안녕하십니까! 임베디드 개발자 김병성입니다.
-## Hello! I'm Byungseong Kim, an Embedded Systems Developer.
+ Hello! I'm Byungseong Kim, an Embedded Systems Developer.
 
 ---
 
@@ -51,11 +51,9 @@ LCD 상태 표시와 Android 앱 인터페이스를 통해 사용자 피드백�
 ---
 
 ### 🌬 The Universal Chat 클라이언트-서버 기반 채팅 시스템
-The Universal Chat 클라이언트-서버 기반 채팅 시스템  
 UDP 서버와 클라이언트를 통해 계정 로그인 및 채팅방 참여 기능을 제공하는 시스템입니다.  
 채팅은 실시간으로 가능하며, 화상 공유는 단방향 송신만 지원합니다.  
 일부 기능은 현재 구현 중입니다.
-
 
 ---
 
