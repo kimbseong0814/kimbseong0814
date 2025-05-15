@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%20to%20Byungseong's%20GitHub!&fontAlign=50&fontAlignY=40&fontSize=40" />
 
-## 안녕하세요 임베디드 개발자 김병성입니다.
+## 안녕하십니까! 임베디드 개발자 김병성입니다.
+## Hello! I'm Byungseong Kim, an Embedded Systems Developer.
 
 ---
 
