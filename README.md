@@ -9,16 +9,15 @@
 ### 💻 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
 
 ### 📡 Embedded Platforms  
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white)
-![Cortex-M3](https://img.shields.io/badge/Cortex--M3-0091BD?style=flat)
 ![AVR](https://img.shields.io/badge/AVR-FF9900?style=flat)
 ![Atmega328P / 2560](https://img.shields.io/badge/Atmega328P%20/%202560-FF9900?style=flat)
 ![Arduino Uno](https://img.shields.io/badge/Arduino%20Uno-00979D?style=flat&logo=Arduino&logoColor=white)
-![Arduino Mega](https://img.shields.io/badge/Arduino%20Mega-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
 ### 🧰 Tools & OS  
@@ -30,6 +29,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
 
 ---
 
