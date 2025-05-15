@@ -39,7 +39,7 @@
 
 ### 💡 MOMS Cookie – 스마트 비서 로봇 시스템
 TurtleBot3, STM32, ESP32, Flutter 앱을 연동한 AI 스마트 비서 시스템입니다.  
-Arduino 버튼으로 TurtleBot3을 제어하고, GPT 기반 음성 응답과 날씨 알림,  
+Arduino 버튼으로 TurtleBot3을 해당 위치를 조정하고, GPT 기반 음성 응답과 날씨 알림,  
 가습기 조작 등 아침 루틴을 자동화하여 사용자의 명령에 따라 동작하는  
 홈 어시스턴트를 구현했습니다.
 
