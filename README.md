@@ -6,14 +6,12 @@
 ---
 
 ## 🛠 Tech Stack
-
-### 💻 Languages  
+  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 
-### 📡 Embedded Platforms  
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-FF9900?style=flat)
@@ -21,7 +19,6 @@
 ![Arduino Uno](https://img.shields.io/badge/Arduino%20Uno-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-### 🧰 Tools & OS  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
