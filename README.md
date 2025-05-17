@@ -13,8 +13,6 @@
 
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-FF9900?style=flat)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
