@@ -23,7 +23,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jerry0108)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jerry0108)
 
 ---
 
