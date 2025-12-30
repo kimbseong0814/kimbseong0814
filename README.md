@@ -1,6 +1,6 @@
 
 
-## 안녕하십니까! 임베디드 개발자 김병성입니다.
+## 안녕하십니까! 개발자 김병성입니다.
  Hello! I'm Byungseong Kim, an Embedded Systems Developer.
 
 ---
