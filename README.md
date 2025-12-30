@@ -1,7 +1,7 @@
 
 
 ## 안녕하십니까! 개발자 김병성입니다.
- Hello! I'm Byungseong Kim, an Embedded Systems Developer.
+ Hello! I'm Byungseong Kim, a Software Developer.
 
 ---
 
